@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: #ffffff;
 }
 h1 {
     text-align: center;
@@ -10,11 +10,169 @@ h1 {
     
 }
 
+#Pay{
+    background: black;
+    position: absolute;
+    width: 30%;
+    height: 40px;
+    left: 190px;
+    bottom: 5px;
+    alignment: center;
+}
+
+#Pay2{
+    background: black;
+    position: absolute;
+    width: 30%;
+    height: 40px;
+    left: 125px;
+    bottom: 5px;
+    alignment: center;
+}
+
+#Pay3{
+    background: black;
+    position: absolute;
+    width: 30%;
+    height: 40px;
+    left: 170px;
+    bottom: 5px;
+    alignment: center;
+}
+#Pay4{
+    background: black;
+    position: absolute;
+    width: 30%;
+    height: 40px;
+    left: 190px;
+    bottom: 5px;
+    alignment: center;
+}
+
+#LPay{
+    background: black;
+    position: absolute;
+    width: 30%;
+    height: 40px;
+    left: 100px;
+    bottom: 5px;
+    alignment: center;
+}
+
+#LPay2{
+    background: black;
+    position: absolute;
+    width: 30%;
+    height: 40px;
+    left: 100px;
+    bottom: 5px;
+    alignment: center;
+}
+
+#LPay3{
+    background: black;
+    position: absolute;
+    width: 30%;
+    height: 40px;
+    left: 190px;
+    bottom: 5px;
+    alignment: center;
+}
+#LPay4{
+    background: black;
+    position: absolute;
+    width: 30%;
+    height: 40px;
+    left: 190px;
+    bottom: 5px;
+    alignment: center;
+}
+
+#Price1{
+    background: #5b5555;
+    width:15%;
+    height:50px;
+    position: absolute;
+    top: 725px;
+    left: 325px;
+}
+#Price2{
+    background: #5b5555;
+    width:10%;
+    height:50px;
+    position: absolute;
+    top: 725px;
+    left: 650px;
+}
+
+#Price3{
+    background: #5b5555;
+    width:13%;
+    height:50px;
+    position: absolute;
+    top: 725px;
+    left: 870px;
+}
+
+#Price4{
+    background: #5b5555;
+    width:15%;
+    height:50px;
+    position: absolute;
+    top: 725px;
+    left: 1125px;
+}
+#LPrice1{
+    background: #5b5555;
+    width:8%;
+    height:50px;
+    position: absolute;
+    top: 725px;
+    left: 360px;
+}
+#LPrice2{
+    background: #5b5555;
+    width:8%;
+    height:50px;
+    position: absolute;
+    top: 725px;
+    left: 550px;
+}
+#LPrice3{
+    background: #5b5555;
+    width:15%;
+    height:50px;
+    position: absolute;
+    top: 725px;
+    left: 740px;
+}
+#LPrice4{
+    background: #5b5555;
+    width:16%;
+    height:50px;
+    position: absolute;
+    top: 725px;
+    left: 1050px;
+}
+
 #logo{
     
     position:absolute;
     top:10px;
     left:850px;
+}
+
+#Watches{
+
+    position:absolute;
+    top:270px;
+    left:300px;
+}
+#LWatches{
+
+    position:absolute;
+    top:360px;
+    left:350px;
 }
 
 #top_ban{
@@ -63,13 +221,52 @@ h1 {
     left: 1300px;
 }
 
+#Login_Box{
+    background: black;
+    width: 25%;
+    height: 60%;
+    position: absolute;
+    top: 325px;
+    left: 680px;
+}
+
+#Page{
+    background: antiquewhite;
+    width: 20%;
+    height: 55%;
+    position: absolute;
+    top: 345px;
+    left: 725px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #af9f93;
-
 
 }
 
@@ -107,7 +304,15 @@ li a:hover {
     max-height: 300px;
 
 }
+.slideshow-container3 {
 
+    position: absolute;
+    top:300px;
+    left:600px;
+    max-width: 1920px;
+    max-height: 300px;
+
+}
 
 
 /* The dots/bullets/indicators */
