@@ -30,6 +30,7 @@ window,onload = function() {
         dots[slideindices[selector]-1].className += " active";
         setTimeout(showSlides, 15000, selector); // Change image every 5 seconds
     }
+
     showSlides2('.slideshow-container2');
     function showSlides2(selector) {
         let i;
